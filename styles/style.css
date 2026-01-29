@@ -1,0 +1,26 @@
+.teste {
+    padding: 10px;
+    border: #000000 1px solid;
+}
+body {
+    align-items: centers;
+
+}
+
+
+.div1 {
+    display:grid;
+    justify-content: center;
+    align-items: center;
+}
+
+header {
+    background-color: yellow;
+}
+body {
+    background-color: green;
+}
+
+h1, p, h2, h3, h4, h5 {
+    color: wheat;
+}

@@ -1,0 +1,14 @@
+.footer {
+    display: grid;
+    
+}
+
+body {
+    background-color: rgb(39, 39, 68);
+    display: grid;
+    justify-content: center;
+}
+
+h2, h1, p, a {
+    color: white;
+}
